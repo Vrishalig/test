@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Making ginger tea Tea</title>
+<title>Making ginger tea</title>
 </head>
 <body>
 
-<h1>How to make ginger tea Tea</h1>
+<h1>How to make ginger tea</h1>
 <h2><bold>Ingrdients</bold>
 <h2/>
 <p><ul><li>Water 1 cup
@@ -19,7 +19,7 @@
 2. Add sugar, tea powder, and crushed ginger.<br>
 3. Boil for few minutes.<br>
 4. Add milk. <br>
-5. Strain using a strainer and server hot.
+5. Strain using a strainer and serve hot.
 
 </body>
 </html>
