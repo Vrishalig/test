@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Making ginger tea</title>
 </head>
 <body>
 
